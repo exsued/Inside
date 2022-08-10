@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 0525abfb5cd376c408e78a29e50268e3
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 8188972174183868688
+    second: Object001|byron|Take 001|BaseLayer
+  - first:
+      74: 8008550044501252546
+    second: Object001|face|Take 001|BaseLayer
+  - first:
+      74: -1951999145027632924
+    second: Object001|Object001|Take 001|BaseLayer
+  - first:
+      74: -5535210923722040953
+    second: Object001|Sphere002|Take 001|BaseLayer
+  - first:
+      74: -9199831227864495072
+    second: Object001|Sphere003|Take 001|BaseLayer
+  - first:
+      74: 8806673842785495092
+    second: byron|byron|Take 001|BaseLayer
+  - first:
+      74: -273618616923062099
+    second: byron|face|Take 001|BaseLayer
+  - first:
+      74: 3115999065291604002
+    second: byron|Object001|Take 001|BaseLayer
+  - first:
+      74: 8003677438528695663
+    second: byron|Sphere002|Take 001|BaseLayer
+  - first:
+      74: 4899012346375720995
+    second: byron|Sphere003|Take 001|BaseLayer
+  - first:
+      74: 3394420393255617633
+    second: Sphere002|byron|Take 001|BaseLayer
+  - first:
+      74: -649633455319091147
+    second: Sphere002|face|Take 001|BaseLayer
+  - first:
+      74: 1857828135972525451
+    second: Sphere002|Object001|Take 001|BaseLayer
+  - first:
+      74: -57909102277739869
+    second: Sphere002|Sphere002|Take 001|BaseLayer
+  - first:
+      74: -2819828591253662531
+    second: Sphere002|Sphere003|Take 001|BaseLayer
+  - first:
+      74: -6104484136800926670
+    second: face|byron|Take 001|BaseLayer
+  - first:
+      74: 6924918191880803028
+    second: face|face|Take 001|BaseLayer
+  - first:
+      74: 1307804925180410201
+    second: face|Object001|Take 001|BaseLayer
+  - first:
+      74: -8053243327279052096
+    second: face|Sphere002|Take 001|BaseLayer
+  - first:
+      74: 1851217276119900280
+    second: face|Sphere003|Take 001|BaseLayer
+  - first:
+      74: 5650154377334222690
+    second: Sphere003|byron|Take 001|BaseLayer
+  - first:
+      74: 1176309761323490051
+    second: Sphere003|face|Take 001|BaseLayer
+  - first:
+      74: 7645052789856924076
+    second: Sphere003|Object001|Take 001|BaseLayer
+  - first:
+      74: -5973253548157566592
+    second: Sphere003|Sphere002|Take 001|BaseLayer
+  - first:
+      74: 6348248360192766630
+    second: Sphere003|Sphere003|Take 001|BaseLayer
+  - first:
+      74: -203655887218126122
+    second: mixamo.com
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.005
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
