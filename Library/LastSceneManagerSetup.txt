@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Game/Story/RoomOfCruelty/RoomOfCruelty.unity
+- path: Assets/Game/Story/Intro/Intro.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
